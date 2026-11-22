@@ -1,10 +1,7 @@
 streamlit
 matplotlib
+seaborn
+pillow
 pandas
 numpy
 scikit-learn
-tensorflow
-torch
-pillow
-seaborn
-opencv-python-headless
